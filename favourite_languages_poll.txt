@@ -1,0 +1,5 @@
+Python: 2
+Ruby: 2
+C: 1
+Go: 1
+Haskell: 1
